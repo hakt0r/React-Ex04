@@ -1,9 +1,17 @@
 
 ### Exercise
 
+1. Create a simple counter,
+   the state of the counter should be in App.js,
+   and offer a function (do add) for the sub-components
+   Use 2 component files:
+  - The Add component should offer 3 Buttons:
+    - +1
+    - +10
+    - +100
+  - The Display component should display the current count
 
-
-4. (Bonus) Use bootstrap.
+2. (Bonus) Use bootstrap.
 
 ### `npm install`
 
